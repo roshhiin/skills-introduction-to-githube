@@ -1,4 +1,4 @@
-# my first GitHub experience by Roshni it's extremely beneficial for my future goal.
+# GitHub repo for experience 
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
